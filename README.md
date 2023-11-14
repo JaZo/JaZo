@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @jazo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jazo)](https://holopin.io/@jazo)
+
 <!--
 **JaZo/JaZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
